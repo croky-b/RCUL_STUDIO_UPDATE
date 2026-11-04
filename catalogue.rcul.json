@@ -53,6 +53,24 @@
         "gitCommit": "d4d65151094f39b5ee09ffd4371907f0f559e295",
         "workingTreeModified": false
       }
+    },
+    {
+      "target": "MINI_LIGHT_SERVO",
+      "variant": "Mini L&S ESP32-S3",
+      "version": "3.2.0",
+      "channel": "test",
+      "url": "https://raw.githubusercontent.com/croky-b/RCUL_STUDIO_UPDATE/main/MINI_LIGHT_SERVO_3_2_0.rcul-firmware.json",
+      "notes": "",
+      "sourceReference": {
+        "project": "Mini_L_S_V3",
+        "kind": "current-avm-project-reference",
+        "matchesCompiledBinaryVerified": false,
+        "version": "3.2.0",
+        "state": "STABLE",
+        "workPoint": "",
+        "gitCommit": "9c3a7b6453b9c291fff1d545799200bf563caecc",
+        "workingTreeModified": true
+      }
     }
   ]
 }
