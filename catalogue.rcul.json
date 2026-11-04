@@ -35,6 +35,24 @@
         "gitCommit": "57dbe4544b616064fbbc4bc4e091ea52610a4966",
         "workingTreeModified": true
       }
+    },
+    {
+      "target": "BURC",
+      "variant": "BURC ESP32-S3",
+      "version": "2.13.6",
+      "channel": "test",
+      "url": "https://raw.githubusercontent.com/croky-b/RCUL_STUDIO_UPDATE/main/BURC_2_13_6.rcul-firmware.json",
+      "notes": "",
+      "sourceReference": {
+        "project": "BURC_V2",
+        "kind": "current-avm-project-reference",
+        "matchesCompiledBinaryVerified": false,
+        "version": "2.13.6",
+        "state": "STABLE",
+        "workPoint": "",
+        "gitCommit": "d4d65151094f39b5ee09ffd4371907f0f559e295",
+        "workingTreeModified": false
+      }
     }
   ]
 }
