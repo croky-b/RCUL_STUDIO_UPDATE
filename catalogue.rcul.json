@@ -1,0 +1,14 @@
+{
+  "format": "rcul-firmware-catalog",
+  "schemaVersion": 1,
+  "firmwares": [
+    {
+      "target": "SOUND_SMOKE",
+      "variant": "Sound ESP32-S3 N16R8",
+      "version": "3.3.7",
+      "channel": "test",
+      "url": "https://raw.githubusercontent.com/croky-b/RCUL_STUDIO_UPDATE/main/Sound_3_3_7.rcul-firmware.json",
+      "notes": "Correction du suivi USB de la lecture des sons SHORT et LONG. Utiliser le configurateur RCUL Studio Cartes 0.92 ou supérieur."
+    }
+  ]
+}
