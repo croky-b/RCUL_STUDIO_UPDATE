@@ -9,6 +9,14 @@
       "channel": "test",
       "url": "https://raw.githubusercontent.com/croky-b/RCUL_STUDIO_UPDATE/main/Sound_3_3_7.rcul-firmware.json",
       "notes": "Correction du suivi USB de la lecture des sons SHORT et LONG. Utiliser le configurateur RCUL Studio Cartes 0.92 ou supérieur."
-    }
+    },
+	{
+	  "target": "LIGHT_SERVO",
+	  "variant": "Light & Servo ESP32",
+	  "version": "3.4.4",
+	  "channel": "test",
+	  "url": "https://raw.githubusercontent.com/croky-b/RCUL_STUDIO_UPDATE/main/LIGHT_SERVO_3_4_4.rcul-firmware.json",
+	  "notes": "Version du firmware synchronisée avec AVM."
+	}
   ]
 }
