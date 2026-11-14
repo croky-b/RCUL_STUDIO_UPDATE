@@ -71,6 +71,24 @@
         "gitCommit": "9c3a7b6453b9c291fff1d545799200bf563caecc",
         "workingTreeModified": true
       }
+    },
+    {
+      "target": "SOUND_SMOKE",
+      "variant": "Sound ESP32-S3 N16R8",
+      "version": "3.3.8",
+      "channel": "test",
+      "url": "https://raw.githubusercontent.com/croky-b/RCUL_STUDIO_UPDATE/main/SOUND_SMOKE_3_3_8.rcul-firmware.json",
+      "notes": "",
+      "sourceReference": {
+        "project": "Sound_Smoke_S3_V3",
+        "kind": "current-avm-project-reference",
+        "matchesCompiledBinaryVerified": false,
+        "version": "3.3.8",
+        "state": "STABLE",
+        "workPoint": "",
+        "gitCommit": "a02938d05ac7cbff655f10a1531629fde27d8d5a",
+        "workingTreeModified": false
+      }
     }
   ]
 }
